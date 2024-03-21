@@ -25,7 +25,7 @@ I hope you like my game!
 
 ## Screenshots
 
-The screenshots and related instructions are in the Test folder.
+The [screenshots](https://github.com/Jingqing3948/Java_Wordle_Game/tree/main/Test/Screenshots) and related instructions are in the Test folder.
 
 ## References
 
